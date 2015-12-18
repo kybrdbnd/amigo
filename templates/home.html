@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+    <h1 class="header center darken-1-text">Project Amigo</h1>
+    <div class="row center">
+        <h5 class="header col s12 light">Amigo is a newly conceptualized social network. You can like, comment and also
+            share 'pins' of your amigos (Friends).<br><br>
+            Amigo is designed in such a way that it is visually appealing</h5>
+    </div>
+    <br>
+    <div class="row center">
+        <div class="col s6">
+            <a href="{% url 'features' %}" class="btn-large waves-effect waves-light grey darken-4">Features</a>
+        </div>
+        <div class="col s6">
+            <a href="{% url 'insight' %}" class="btn-large waves-effect waves-light grey darken-4">Insights</a>
+        </div>
+    </div>
+{% endblock %}

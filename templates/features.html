@@ -1,0 +1,59 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+    <div class="row center">
+        <h4 class="header center darken-4-text">Amigo Features</h4>
+    </div>
+    <div class="row left">
+        <ul class="collapsible popout" data-collapsible="accordion">
+
+            <li>
+                <div class="collapsible-header active"><i class="material-icons">filter_drama</i><strong>"The board" and
+                    "The Pins"
+                </strong>
+                </div>
+                <div class="collapsible-body"><p>"The board" is a new feature implemented in Amigo which holds all of
+                    your
+                    friends' activities. While some may call them 'posts', we like to call them 'pins'. You can add a
+                    'pin'
+                    to your friends' boards by just choosing the most suitable cover and the related thought.
+                    Seems pretty normal? Nope. <br>
+                    For every pin you submit, we modify your Amigo Social Quotient*. Your Amigo Social Quotient defines
+                    how
+                    socially active and famous you are. Being socially famous will make you eligible for the 'Notoriety'
+                    wall pinup which is displayed in the app and can be seen by anyone.</p></div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">place</i><strong>Casual Chat</strong></div>
+                <div class="collapsible-body"><p>We know that you get a little bored while surfing the network, that's
+                    why
+                    we designed it specifically for you. Casual chatting is just like random stranger to stranger chat.
+                    You
+                    can just tap one button and Amigo will search a totally random stranger for you to chat with. Yes,
+                    your
+                    Social Notoriety* also plays a major role in the selection of random strangers.</p></div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">whatshot</i><strong>Social Notoriety</strong>
+                </div>
+                <div class="collapsible-body"><p>Social Notoriety is the WOW factor why to use Amigo. Your social
+                    notoriety
+                    is determined by your Amigos. Yes, your amigos can vote for which personality suits you the most.
+                    They
+                    can choose from a given list of personalities/traits that suit you the most like charming,
+                    charismatic,
+                    nerdy etc. While this can make you super popular, social notoriety can backfire too, therefor it's
+                    important who you make friends with.</p></div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">place</i><strong>Social Quotient</strong>
+                </div>
+                <div class="collapsible-body"><p>A sub feature of Social Notoriety, Social Quotient is designed and
+                    implemented to maintain the psych balance. Your Social Quotient is determined by Amigo itself. For
+                    every
+                    pin that you create, Amigo will monitor the comments, the likes and the shares that it fetches.
+                    Depending on that Amigo will modify your social quotient.</p></div>
+            </li>
+        </ul>
+    </div>
+{% endblock %}
