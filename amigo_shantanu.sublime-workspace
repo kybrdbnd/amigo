@@ -1,0 +1,524 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vi",
+				"views"
+			],
+			[
+				"re",
+				"request	param"
+			],
+			[
+				"__s",
+				"__str__"
+			],
+			[
+				"blo",
+				"blog"
+			],
+			[
+				"se",
+				"settings〔module〕"
+			],
+			[
+				"tr",
+				"try	Try/Except"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"e",
+				"events"
+			],
+			[
+				"stat",
+				"statusTxt"
+			],
+			[
+				"cli",
+				"class〔function〕"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"sed",
+				"sender"
+			],
+			[
+				"la",
+				"label_tag"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"sen",
+				"sender"
+			],
+			[
+				"form",
+				"form	Tag"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"scri",
+				"script	Tag"
+			],
+			[
+				"ac",
+				"activator"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"map",
+				"map"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"em",
+				"em	<em>"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"spa",
+				"spacegallery"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"Image",
+				"ImageModel"
+			],
+			[
+				"mo",
+				"model	model"
+			],
+			[
+				"a",
+				"a"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/css.html",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/amigo",
+		"/D/Projects/amigo/templates"
+	],
+	"file_history":
+	[
+		"/D/Projects/csi_website/src/templates/navbar.html",
+		"/D/Projects/winter/blog/models.py",
+		"/D/Projects/csi_website/src/csi_website/settings/__init__.py",
+		"/D/Projects/csi_website/src/csi_website/settings_old.py",
+		"/D/Projects/csi_website/src/csi_website/settings/local.py",
+		"/D/Projects/csi_website/src/csi_website/urls.py",
+		"/D/Projects/csi_website/src/templates/about.html",
+		"/D/Projects/winter/winter/settings/base.py",
+		"/D/Projects/winter/winter/settings/production.py",
+		"/D/Projects/winter/winter/settings/__init__.py",
+		"/D/Projects/csi_website/src/static/static_dirs/css/navbar.css",
+		"/C/Users/kybrdbnd/Desktop/hotspot.bat",
+		"/D/Projects/winter/winter/urls.py",
+		"/D/Projects/csi_website/src/csi_website/settings/production.py",
+		"/D/Projects/csi_website/src/csi_website/settings/base.py",
+		"/D/Projects/winter/blog/views.py",
+		"/D/winter/winter/urls.py",
+		"/D/Projects/winter/blog/admin.py",
+		"/D/winter/blog/admin.py",
+		"/D/winter/blog/views.py",
+		"/D/winter/blog/models.py",
+		"/D/Projects/winter/winter/settings.py",
+		"/D/winter/winter/settings.py",
+		"/D/Projects/winter/blog/urls.py",
+		"/D/Projects/winter/manage.py",
+		"/C/Users/kybrdbnd/Envs/winter/Lib/site-packages/material/frontend/templates/material/frontend/base.html",
+		"/C/Users/kybrdbnd/Envs/winter/Lib/site-packages/material/frontend/templates/registration/logged_out.html",
+		"/C/Users/kybrdbnd/Envs/winter/Lib/site-packages/material/frontend/views.py",
+		"/C/Users/kybrdbnd/Envs/winter/Lib/site-packages/material/frontend/urls.py",
+		"/C/Users/kybrdbnd/Envs/winter/Lib/site-packages/material/frontend/urlconf.py",
+		"/D/Projects/winter/blog/__init__.py",
+		"/D/Projects/angular_js/manage.py",
+		"/D/Projects/angular_js/angular_js/settings.py",
+		"/D/Projects/csi_website/src/layout/views.py",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/D/Projects/csi_website/src/layout/forms.py",
+		"/D/Projects/csi_website/src/csi_website/wsgi.py",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/GitGutter/Default (Windows).sublime-keymap",
+		"/D/Projects/csi_website/src/layout/models.py",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/Projects/csi_website/src/static/static_root/staticfiles.json",
+		"/D/Projects/csi_website/src/Procfile",
+		"/D/Projects/csi_website/src/templates/css.html",
+		"/D/Projects/csi_website/src/static/static_dirs/css/icon.css",
+		"/D/Projects/csi_website/src/static/static_dirs/font/font-awesome.css",
+		"/D/Projects/csi_website/src/static/static_dirs/font/font-awesome.min.css",
+		"/D/Projects/csi_website/src/templates/forms.html",
+		"/D/Projects/csi_website/src/csi_website.sublime-project",
+		"/D/Projects/csi_website/src/static/static_dirs/css/font-awesome.min.css",
+		"/D/Projects/csi_website/src/static/static_dirs/css/font-awesome.css",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/css/font-awesome.css",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/css/font-awesome.min.css",
+		"/D/Projects/csi_website/requirements.txt",
+		"/D/Projects/csi_website/.gitignore",
+		"/D/Projects/csi_website/Procfile",
+		"/D/Projects/csi_website/runtime.txt",
+		"/D/Projects/csi_website/src/templates/404.html",
+		"/D/Projects/csi_website/src/requirements.txt",
+		"/D/Projects/csi_website/Procfile.txt",
+		"/D/Projects/csi_website/src/csi_website/settings/__ini__.py",
+		"/D/Projects/csi_website _t/src/csi_website/settings/production.py",
+		"/D/Projects/csi_website _t/src/csi_website/settings/base.py",
+		"/D/Projects/csi_website _t/src/csi_website/settings/__init__.py",
+		"/D/Projects/csi_website _t/src/csi_website/old_settings.py",
+		"/D/Projects/csi_website _t/src/csi_website/settings/local.py",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/css/navbar.css",
+		"/D/Projects/csi_website/src/templates/js.html",
+		"/D/Downloads/Dynamic-Circular-Progress-Bar-with-jQuery-CSS3/Dynamic-Circular-Progress-Bar-with-jQuery-CSS3/jQuery-plugin-progressbar.css",
+		"/D/Downloads/Dynamic-Circular-Progress-Bar-with-jQuery-CSS3/Dynamic-Circular-Progress-Bar-with-jQuery-CSS3/README.md",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/js/jquery.min.js",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/User/AutoPep8.sublime-settings",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/Default.sublime-keymap",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/css/main.css",
+		"/D/Projects/csi_website/src/templates/team.html",
+		"/D/Projects/csi_website/src/templates/events.html",
+		"/D/Projects/csi_website/src/static_in_pro/our_static/css/materialize.css",
+		"/D/Projects/csi_website/src/templates/gallery.html",
+		"/D/Downloads/spacegallery/index.html",
+		"/D/Downloads/spacegallery/css/layout.css",
+		"/D/Projects/csi_website/css.html",
+		"/D/Projects/csi_website/src/layout/admin.py",
+		"/D/Projects/django18/src/newsletter/forms.py",
+		"/D/Projects/csi_website/src/csi_website/settings.py",
+		"/C/Users/kybrdbnd/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/codes/python/simple.py",
+		"/D/codes/python/akhar.py",
+		"/D/Projects/django18/src/newsletter/views.py",
+		"/C/Users/kybrdbnd/Downloads/virtualenvwrapper-4.7.1/setup.cfg",
+		"/C/Users/kybrdbnd/Downloads/virtualenvwrapper-4.7.1/setup.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/css.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "amigo_shantanu.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"abo",
+				"src\\templates\\about.html"
+			],
+			[
+				"url",
+				"src\\csi_website\\urls.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Projects\\angular_js\\.gitignore.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
